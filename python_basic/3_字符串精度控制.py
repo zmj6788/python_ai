@@ -3,3 +3,4 @@
 a = 55.45
 info = '我的手机余额是%4.3f' % a
 print(info)
+print(f'我的手机余额是{a:12.3f}')

@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffafd61-5f64-4e81-9e0b-a3122291b6b5" name="更改" comment="首次提交验证仓库">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/1_浮点型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/2_字符串格式化输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/3_字符串精度控制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/4_转义字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/5_比较运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/6_布尔类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/7_逻辑运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/8_进制转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/9_输入语句.py" afterDir="false" />
+    <list default="true" id="fffafd61-5f64-4e81-9e0b-a3122291b6b5" name="更改" comment="python基础学习-即将开始循环">
+      <change afterPath="$PROJECT_DIR$/leetcode/hot-100/1_两数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/hot-100/2_字母异位词分组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/hot-100/3_最长连续序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/hot-100/4_移动0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/10_函数限制传参方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/11_函数参数默认值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/12_函数可变参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/13_特殊字面量None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/14_作用域与global关键字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/15_递归调用函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/16_函数说明文档.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/17_闭包函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/18_列表-[ ].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/19_数据容器常用内置函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/20_元组-( ).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/2_字符串格式化输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/2_字符串格式化输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/3_字符串精度控制.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/3_字符串精度控制.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +48,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/zmj6788/python_ai.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:zmj6788/python_ai.git&quot;,
     &quot;accountId&quot;: &quot;1122748d-a670-4e12-9028-2a02e43eeb39&quot;
   }
 }</component>
@@ -61,9 +68,18 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_函数限制传参方式.executor": "Run",
+    "Python.14_作用域与global关键字.executor": "Run",
+    "Python.15_递归调用函数.executor": "Run",
+    "Python.16_函数说明文档.executor": "Run",
+    "Python.18_列表-[].executor": "Run",
+    "Python.19_数据容器常用内置函数.executor": "Run",
+    "Python.1_两数之和.executor": "Run",
     "Python.1_浮点型.executor": "Run",
+    "Python.2_字母异位词分组.executor": "Run",
     "Python.2_字符串格式化输出.executor": "Run",
     "Python.3_字符串精度控制.executor": "Run",
+    "Python.4_移动0.executor": "Run",
     "Python.4_转义字符.executor": "Run",
     "Python.5_比较运算符.executor": "Run",
     "Python.6_布尔类型.executor": "Run",
@@ -85,8 +101,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="4_转义字符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\learn\python\leetcode\hot-100" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.4_移动0">
+    <configuration name="18_列表-[ ]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/4_转义字符.py" />
+      <option name="SCRIPT_NAME" value="D:\code\learn\python\python_basic\18_列表-[ ].py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_逻辑运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19_数据容器常用内置函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +144,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/7_逻辑运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/19_数据容器常用内置函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_进制转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_字符串精度控制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +167,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/8_进制转换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/3_字符串精度控制.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9_输入语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_移动0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/hot-100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/9_输入语句.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hot-100/4_移动0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4_移动0" />
+        <item itemvalue="Python.18_列表-[ ]" />
+        <item itemvalue="Python.19_数据容器常用内置函数" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.4_转义字符" />
-        <item itemvalue="Python.9_输入语句" />
-        <item itemvalue="Python.8_进制转换" />
-        <item itemvalue="Python.7_逻辑运算符" />
+        <item itemvalue="Python.3_字符串精度控制" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +248,10 @@
       <option name="presentableId" value="Default" />
       <updated>1777258535413</updated>
       <workItem from="1777258536401" duration="8235000" />
-      <workItem from="1777284434184" duration="7264000" />
+      <workItem from="1777284434184" duration="9734000" />
+      <workItem from="1777307022101" duration="7780000" />
+      <workItem from="1777355975702" duration="13116000" />
+      <workItem from="1777392874218" duration="10483000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交验证仓库">
       <option name="closed" value="true" />
@@ -237,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777258778426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python基础学习-即将开始循环">
+      <option name="closed" value="true" />
+      <created>1777292142757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777292142757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +280,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -256,18 +300,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次提交验证仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次提交验证仓库" />
+    <MESSAGE value="python基础学习-即将开始循环" />
+    <option name="LAST_COMMIT_MESSAGE" value="python基础学习-即将开始循环" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test 覆盖结果" MODIFIED="1777292001342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5_比较运算符 覆盖结果" MODIFIED="1777269268003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$14_global.coverage" NAME="14_作用域与global关键字 覆盖结果" MODIFIED="1777360676900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$15_.coverage" NAME="15_递归调用函数 覆盖结果" MODIFIED="1777366793360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3_字符串精度控制 覆盖结果" MODIFIED="1777370412181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$4_0.coverage" NAME="4_移动0 覆盖结果" MODIFIED="1777404569334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
+    <SUITE FILE_PATH="coverage/python$18____.coverage" NAME="18_列表-[] 覆盖结果" MODIFIED="1777401702913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_转义字符 覆盖结果" MODIFIED="1777291767301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test 覆盖结果" MODIFIED="1777396813703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$19_.coverage" NAME="19_数据容器常用内置函数 覆盖结果" MODIFIED="1777400964879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$9_.coverage" NAME="9_输入语句 覆盖结果" MODIFIED="1777288587594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3_字符串精度控制 覆盖结果" MODIFIED="1777266019164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$8_.coverage" NAME="8_进制转换 覆盖结果" MODIFIED="1777287574536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6_布尔类型 覆盖结果" MODIFIED="1777284842273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2_字符串格式化输出 覆盖结果" MODIFIED="1777265228887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1_浮点型 覆盖结果" MODIFIED="1777264442331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2_字符串格式化输出 覆盖结果" MODIFIED="1777370364993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1_两数之和 覆盖结果" MODIFIED="1777295295519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
+    <SUITE FILE_PATH="coverage/python$16_.coverage" NAME="16_函数说明文档 覆盖结果" MODIFIED="1777364842719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$7_.coverage" NAME="7_逻辑运算符 覆盖结果" MODIFIED="1777285987948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_转义字符 覆盖结果" MODIFIED="1777291767301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10_函数限制传参方式 覆盖结果" MODIFIED="1777357175713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
   </component>
 </project>
