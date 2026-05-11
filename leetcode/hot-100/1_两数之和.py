@@ -24,3 +24,4 @@ def twoSumPro(nums: List[int], target: int) -> list[int]:
 
 # if idx.get(target-j) is not None:可以替换 if target - x in idx:
 print(twoSumPro([3, 2, 4], 6))
+
