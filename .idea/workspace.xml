@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffafd61-5f64-4e81-9e0b-a3122291b6b5" name="更改" comment="python基础学习-重新开始元组">
-      <change afterPath="$PROJECT_DIR$/python_basic/28_对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/29_对象继承.py" afterDir="false" />
+    <list default="true" id="fffafd61-5f64-4e81-9e0b-a3122291b6b5" name="更改" comment="python基础学习-学习至面对对象-权限控制">
+      <change afterPath="$PROJECT_DIR$/python_basic/30_权限控制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/31_魔法方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/32_object类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/33_多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/34_抽象类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/35_学生成绩管理案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/img/img02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/img/img03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/img/img04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/内存分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/1_重新认识函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/2_多返回值和打包解包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/3_高阶函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/4_条件表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/5_匿名函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pro/1_函数进阶/6_数据处理函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/24_集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/24_集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/25_字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/25_字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/26_数据容器通用操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/26_数据容器通用操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/27_数据容器总结.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/27_数据容器总结.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,63 +64,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.10_函数限制传参方式.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_作用域与global关键字.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_递归调用函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_函数说明文档.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_列表-[].executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_数据容器常用内置函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_两数之和.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_浮点型.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_元组-( ).executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_函数解包列表或元组作为参数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.22_字符串.executor&quot;: &quot;Run&quot;,
-    &quot;Python.23_序列切片.executor&quot;: &quot;Run&quot;,
-    &quot;Python.24_集合.executor&quot;: &quot;Run&quot;,
-    &quot;Python.25_字典.executor&quot;: &quot;Run&quot;,
-    &quot;Python.26_数据容器通用操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.27_数据容器总结.executor&quot;: &quot;Run&quot;,
-    &quot;Python.28_对象.executor&quot;: &quot;Run&quot;,
-    &quot;Python.29_对象继承.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_字母异位词分组.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_字符串格式化输出.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_字符串精度控制.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_移动0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_转义字符.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_比较运算符.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_盛最多水的容器.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_三数之和.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_布尔类型.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_逻辑运算符.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_进制转换.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_输入语句.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_函数限制传参方式.executor": "Run",
+    "Python.14_作用域与global关键字.executor": "Run",
+    "Python.15_递归调用函数.executor": "Run",
+    "Python.16_函数说明文档.executor": "Run",
+    "Python.18_列表-[].executor": "Run",
+    "Python.19_数据容器常用内置函数.executor": "Run",
+    "Python.1_两数之和.executor": "Run",
+    "Python.1_函数进阶.executor": "Run",
+    "Python.1_浮点型.executor": "Run",
+    "Python.1_重新认识函数 (1).executor": "Run",
+    "Python.20_元组-( ).executor": "Run",
+    "Python.21_函数解包列表或元组作为参数.executor": "Run",
+    "Python.22_字符串.executor": "Run",
+    "Python.23_序列切片.executor": "Run",
+    "Python.24_集合.executor": "Run",
+    "Python.25_字典.executor": "Run",
+    "Python.26_数据容器通用操作.executor": "Run",
+    "Python.27_数据容器总结.executor": "Run",
+    "Python.28_对象.executor": "Run",
+    "Python.29_对象继承.executor": "Run",
+    "Python.2_字母异位词分组.executor": "Run",
+    "Python.2_字符串格式化输出.executor": "Run",
+    "Python.30_权限控制.executor": "Run",
+    "Python.31_魔法方法.executor": "Run",
+    "Python.32_object类.executor": "Run",
+    "Python.33_多态.executor": "Run",
+    "Python.34_抽象类.executor": "Run",
+    "Python.35_学生成绩管理案例.executor": "Run",
+    "Python.3_字符串精度控制.executor": "Run",
+    "Python.3_高阶函数.executor": "Run",
+    "Python.4_条件表达式.executor": "Run",
+    "Python.4_移动0.executor": "Run",
+    "Python.4_转义字符.executor": "Run",
+    "Python.5_匿名函数.executor": "Run",
+    "Python.5_比较运算符.executor": "Run",
+    "Python.5_盛最多水的容器.executor": "Run",
+    "Python.6_三数之和.executor": "Run",
+    "Python.6_布尔类型.executor": "Run",
+    "Python.6_数据处理函数.executor": "Run",
+    "Python.7_逻辑运算符.executor": "Run",
+    "Python.8_进制转换.executor": "Run",
+    "Python.9_输入语句.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Settings.Markdown",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redis"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\learn\python\python_pro\1_函数进阶" />
+      <recent name="D:\code\learn\python\python_pro\1_重新认识函数" />
+      <recent name="D:\code\learn\python\python_basic\img" />
+      <recent name="D:\code\learn\python\python_basic\img02" />
       <recent name="D:\code\learn\python\leetcode\hot-100" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.29_对象继承">
-    <configuration name="22_字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="3_高阶函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_pro/1_函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/22_字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_pro/1_函数进阶/3_高阶函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="28_对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_条件表达式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_pro/1_函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/28_对象.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_pro/1_函数进阶/4_条件表达式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="29_对象继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_匿名函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,12 +196,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_pro/1_函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/29_对象继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_pro/1_函数进阶/5_匿名函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_字符串精度控制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_数据处理函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_pro/1_函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/3_字符串精度控制.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_pro/1_函数进阶/6_数据处理函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.29_对象继承" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.28_对象" />
-        <item itemvalue="Python.3_字符串精度控制" />
-        <item itemvalue="Python.22_字符串" />
+        <item itemvalue="Python.6_数据处理函数" />
+        <item itemvalue="Python.5_匿名函数" />
+        <item itemvalue="Python.4_条件表达式" />
+        <item itemvalue="Python.3_高阶函数" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +291,10 @@
       <workItem from="1777464769275" duration="2686000" />
       <workItem from="1777527934274" duration="5485000" />
       <workItem from="1778467138779" duration="9272000" />
-      <workItem from="1778560897148" duration="14036000" />
+      <workItem from="1778560897148" duration="15704000" />
+      <workItem from="1778653086986" duration="7648000" />
+      <workItem from="1778661408050" duration="2317000" />
+      <workItem from="1778734850494" duration="7465000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交验证仓库">
       <option name="closed" value="true" />
@@ -293,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778492075683</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python基础学习-学习至面对对象-权限控制">
+      <option name="closed" value="true" />
+      <created>1778575106647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778575106647</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python基础学习-学习至面对对象-权限控制">
+      <option name="closed" value="true" />
+      <created>1778575218681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778575218681</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,31 +378,40 @@
     <MESSAGE value="python基础学习-即将开始循环" />
     <MESSAGE value="python基础学习-即将开始元组" />
     <MESSAGE value="python基础学习-重新开始元组" />
-    <option name="LAST_COMMIT_MESSAGE" value="python基础学习-重新开始元组" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;python_basic/24_集合.py&#10;#&#9;python_basic/25_字典.py&#10;#&#9;python_basic/27_数据容器总结.py&#10;#&#9;test.py" />
+    <MESSAGE value="python基础学习-学习至面对对象-权限控制" />
+    <option name="LAST_COMMIT_MESSAGE" value="python基础学习-学习至面对对象-权限控制" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$20_____.coverage" NAME="20_元组-( ) 覆盖结果" MODIFIED="1777448745201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$15_.coverage" NAME="15_递归调用函数 覆盖结果" MODIFIED="1777366793360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$21_.coverage" NAME="21_函数解包列表或元组作为参数 覆盖结果" MODIFIED="1777449196774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$1___1_.coverage" NAME="1_重新认识函数 (1) 覆盖结果" MODIFIED="1778739597121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro/1_函数进阶" />
+    <SUITE FILE_PATH="coverage/python$34_.coverage" NAME="34_抽象类 覆盖结果" MODIFIED="1778659126462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$4_0.coverage" NAME="4_移动0 覆盖结果" MODIFIED="1777404569334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
     <SUITE FILE_PATH="coverage/python$26_.coverage" NAME="26_数据容器通用操作 覆盖结果" MODIFIED="1778563807560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_转义字符 覆盖结果" MODIFIED="1777291767301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_条件表达式 覆盖结果" MODIFIED="1778743046580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro/1_函数进阶" />
     <SUITE FILE_PATH="coverage/python$19_.coverage" NAME="19_数据容器常用内置函数 覆盖结果" MODIFIED="1777400964879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$8_.coverage" NAME="8_进制转换 覆盖结果" MODIFIED="1777287574536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$24_.coverage" NAME="24_集合 覆盖结果" MODIFIED="1778562760631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6_三数之和 覆盖结果" MODIFIED="1777530614726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
+    <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6_数据处理函数 覆盖结果" MODIFIED="1778744926270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro/1_函数进阶" />
     <SUITE FILE_PATH="coverage/python$22_.coverage" NAME="22_字符串 覆盖结果" MODIFIED="1778565092419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$35_.coverage" NAME="35_学生成绩管理案例 覆盖结果" MODIFIED="1778659784482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$16_.coverage" NAME="16_函数说明文档 覆盖结果" MODIFIED="1777364842719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1_两数之和 覆盖结果" MODIFIED="1778468358649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
-    <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5_盛最多水的容器 覆盖结果" MODIFIED="1778491259925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hot-100" />
+    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1_函数进阶 覆盖结果" MODIFIED="1778738230374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro" />
+    <SUITE FILE_PATH="coverage/python$30_.coverage" NAME="30_权限控制 覆盖结果" MODIFIED="1778655586892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$14_global.coverage" NAME="14_作用域与global关键字 覆盖结果" MODIFIED="1777360676900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5_匿名函数 覆盖结果" MODIFIED="1778744790918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro/1_函数进阶" />
     <SUITE FILE_PATH="coverage/python$29_.coverage" NAME="29_对象继承 覆盖结果" MODIFIED="1778573798043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3_字符串精度控制 覆盖结果" MODIFIED="1778566762716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3_高阶函数 覆盖结果" MODIFIED="1778741189265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_pro/1_函数进阶" />
     <SUITE FILE_PATH="coverage/python$27_.coverage" NAME="27_数据容器总结 覆盖结果" MODIFIED="1778564507866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$18____.coverage" NAME="18_列表-[] 覆盖结果" MODIFIED="1777401702913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test 覆盖结果" MODIFIED="1778573583198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$33_.coverage" NAME="33_多态 覆盖结果" MODIFIED="1778657983131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$32_object.coverage" NAME="32_object类 覆盖结果" MODIFIED="1778657263776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test 覆盖结果" MODIFIED="1778745450321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$25_.coverage" NAME="25_字典 覆盖结果" MODIFIED="1778563676472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$9_.coverage" NAME="9_输入语句 覆盖结果" MODIFIED="1777288587594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
+    <SUITE FILE_PATH="coverage/python$31_.coverage" NAME="31_魔法方法 覆盖结果" MODIFIED="1778656462737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2_字符串格式化输出 覆盖结果" MODIFIED="1777370364993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$28_.coverage" NAME="28_对象 覆盖结果" MODIFIED="1778570341182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/python$7_.coverage" NAME="7_逻辑运算符 覆盖结果" MODIFIED="1777285987948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
